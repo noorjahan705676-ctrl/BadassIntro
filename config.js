@@ -3,7 +3,7 @@
 
 const SITE_CONFIG = {
     // Informations personnelles
-    title: "Great THUG",
+    title: "Great RACK FF",
     citation: "I don't seek power - I am power.",
     
     // Couleurs principales (format hexadécimal)
@@ -17,11 +17,11 @@ const SITE_CONFIG = {
     
     // Liens sociaux
     socialLinks: {
-        github: "https://github.com/paulafredo",
-        tiktok: "https://www.tiktok.com/@thug.4ff",
-        youtube: "https://www.youtube.com/@thug.4ff",
-        discord: "https://discord.gg/BhQk4q3JGJ",
-        telegram: "https://t.me/thug4ff"
+        github: "https://github.com/invalid",
+        tiktok: "https://www.tiktok.com/@onvalid",
+        youtube: "https://www.youtube.com/@rackff7",
+        discord: "https://discord.gg/invalid",
+        telegram: "https://t.me/invalid"
     },
     
     // Configuration audio
