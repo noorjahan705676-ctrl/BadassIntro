@@ -1,21 +1,21 @@
-FICHIERS À AJOUTER DANS CE DOSSIER :
+KATILAANA :
 
-1. background.mp4 - Vidéo de fond
+1. background.mp4 - Video 
    - Format : MP4
    - Résolution : 1920x1080 ou plus
-   - Style : Sombre, atmosphérique
+   - Style : Sombre, atmosphere 
 
 2. audio.mp3 - Musique de fond
    - Format : MP3
    - Durée : 2-5 minutes
-   - Style : Ambiance, électronique
+   - Style : Ambiance, electronique 
 
 3. avatar.png - Image de profil
    - Format : PNG
    - Taille : 300x300 pixels minimum
    - Style : Portrait ou logo
 
-4. cursor.gif - Curseur personnalisé
+4. cursor.gif - Curseur personalise 
    - Format : GIF
    - Taille : 16x32 pixels
    - Style : Curseur animé
